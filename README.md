@@ -30,5 +30,3 @@ RayScan AI is an advanced AI-based diagnostic system designed to detect lung dis
 RayScan AI is designed to be beneficial in healthcare settings, particularly in regions with limited access to radiologists, by offering a reliable, fast, and cost-effective diagnostic aid.
 
 ---
-
-Feel free to explore, contribute, or use this project as a starting point for further research in medical AI-based diagnostics.
